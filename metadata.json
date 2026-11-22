@@ -1,0 +1,6 @@
+{
+  "name": "HookRelay",
+  "description": "Production webhook delivery and reliability platform with HMAC-SHA256 signing, persistent exponential-backoff retries, idempotency, dead letter queues, event replay, analytics, and a live local test receiver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
